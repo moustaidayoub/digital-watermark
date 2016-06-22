@@ -1,0 +1,9 @@
+c:\users\ayoub\documents\visual studio 2012\Projects\Tatouer\Tatouer\bin\Debug\Tatouer.exe.config
+c:\users\ayoub\documents\visual studio 2012\Projects\Tatouer\Tatouer\bin\Debug\Tatouer.exe
+c:\users\ayoub\documents\visual studio 2012\Projects\Tatouer\Tatouer\bin\Debug\Tatouer.pdb
+c:\users\ayoub\documents\visual studio 2012\Projects\Tatouer\Tatouer\obj\Debug\Tatouer.csprojResolveAssemblyReference.cache
+c:\users\ayoub\documents\visual studio 2012\Projects\Tatouer\Tatouer\obj\Debug\Tatouer.Form1.resources
+c:\users\ayoub\documents\visual studio 2012\Projects\Tatouer\Tatouer\obj\Debug\Tatouer.Properties.Resources.resources
+c:\users\ayoub\documents\visual studio 2012\Projects\Tatouer\Tatouer\obj\Debug\Tatouer.csproj.GenerateResource.Cache
+c:\users\ayoub\documents\visual studio 2012\Projects\Tatouer\Tatouer\obj\Debug\Tatouer.exe
+c:\users\ayoub\documents\visual studio 2012\Projects\Tatouer\Tatouer\obj\Debug\Tatouer.pdb
